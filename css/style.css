@@ -1,34 +1,10 @@
-.titre1 {
-    color: red
-}
-
-.titre2 {
-    color: blue
-}
-
-.titre3 {
-    color: yellow;
-}
-
-.titre4 {
-    color: beige;
-}
-
-.titre5 {
-    font-size: 20px;
-}
-
-.titre6 {
-    font-size: 2rem;
-}
-
-.paragraphe1 {
+input {
+    border-color: black;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: lightgrey;
     font-weight: bold;
+    text-align: center;
 }
-
-.paragraphe2 {
-    font-style: italic;
-}
-
-
 
